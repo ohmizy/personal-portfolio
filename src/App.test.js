@@ -1,3 +1,4 @@
+8 lines (7 sloc)  246 Bytes
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
